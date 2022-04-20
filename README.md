@@ -1,4 +1,4 @@
-# Mi primer repositorio HitHUB
+# Mi primer repositorio GitHUB
 # Encabezado 1    
 _Este es un curso introductorio al procesamiento de datos geograficos mediante el lenguaje de programacion R. Se estudian los fundamentos de R, sus bibliotecas geoespaciales y sus capacidades para generar graficos estadisticos._ Tambien se utilizan herramientas para facilitar la **reproducibilidad de los procedimientos y su comunicacion a traves de la Internet y otros medios**.
 
